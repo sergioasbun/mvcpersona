@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiPersona", "apiPersona\apiPersona.csproj", "{0BDFA952-CC6A-4778-85A4-2BC8C461E9D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiPersona.Tests", "apiPersona.Tests\apiPersona.Tests.csproj", "{692DC988-7982-46BC-AC82-CE220DF56414}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BDFA952-CC6A-4778-85A4-2BC8C461E9D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BDFA952-CC6A-4778-85A4-2BC8C461E9D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BDFA952-CC6A-4778-85A4-2BC8C461E9D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BDFA952-CC6A-4778-85A4-2BC8C461E9D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{692DC988-7982-46BC-AC82-CE220DF56414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692DC988-7982-46BC-AC82-CE220DF56414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692DC988-7982-46BC-AC82-CE220DF56414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692DC988-7982-46BC-AC82-CE220DF56414}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5DA8605-BD9A-4E0D-8FDA-C45E55B03AE4}
+	EndGlobalSection
+EndGlobal
